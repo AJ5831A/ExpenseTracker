@@ -1,12 +1,32 @@
-# React + Vite
+# 💰 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive Expense Tracker web app built with **React** and **Vite**. This app allows users to **add, delete, analyze, and export expenses**, giving a complete overview of their spending habits with insightful visualizations and reports.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+### 🧾 Expense Management
+- ✅ Add new expenses with title, amount, and category
+- ❌ Delete any transaction with one click
+- 🔔 Notifications for success and error events
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📊 Dashboard & Analytics
+- 📈 View real-time summary of total spending
+- 🕒 Recent transactions section
+- 📊 Dynamic charts and graphs powered by your data
+
+### ⚙️ Settings Page
+- 🧮 Export all expenses in one click (CSV/JSON)
+- 🛠️ Optional customization settings for future expansion
+
+---
+
+## 🛠️ Tech Stack
+
+- **React + Vite** for lightning-fast frontend
+- **Tailwind CSS** for modern styling
+- **React Context API** for state management
+- **Chart.js / Recharts** (optional for graphs)
+
+---
